@@ -1,0 +1,21 @@
+json movie search example
+
+var movie = {
+	title: "Frozen",
+	link: "http://imdb.com/sefklsef",
+	poster: "http://www.posterlocation.com/img.jpg"
+}
+
+var movies = [{
+	title: "Frozen"
+	link: "http....",
+	poster: "http....",
+	},{
+	title: "Frozen"
+	link: "http....",
+	poster: "http....",
+	},{
+	title: "Frozen"
+	link: "http....",
+	poster: "http....",
+	}];
